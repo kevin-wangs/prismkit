@@ -59,3 +59,10 @@ AMD's open-source approach means you get full stack visibility — from kernel d
 ## License
 
 MIT License
+
+
+---
+
+**Developed by Apex Ridge Technologies, Inc.**
+
+2805 E Cottonwood Pkwy, Suite 100, Salt Lake City, UT 84121
